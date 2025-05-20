@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [UCAS/ICT](https://ict.ac.cn/). My research interest includes natual langauge processing, large language model, and neural-symbolic dual-process computing.
+I'm a third year undergraduate student from [UCAS/ICT](https://www.ict.ac.cn/). My research interest includes natual langauge processing, large language model, and neural-symbolic dual-process computing.
 
 **Contact**
 [Email](mailto:yangjing22s@ict.ac.cn) / [Github](https://github.com/yangj915)
